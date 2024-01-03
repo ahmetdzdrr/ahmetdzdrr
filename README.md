@@ -19,9 +19,9 @@
 
 <div style="display: flex; justify-content: center;">
     <p style="flex: 1; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetdzdrr&show_icons=true&locale=en&layout=compact" alt="ahmetdzdrr" width="380" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetdzdrr&show_icons=true&locale=en&layout=compact" alt="ahmetdzdrr" width="350" height="180"/>
     </p>
-    <p style="flex: 1; text-align: center;">
+    <p style="flex: 2; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=ahmetdzdrr&show_icons=true&locale=en" alt="ahmetdzdrr" />
     </p>
 </div>
