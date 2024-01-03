@@ -21,3 +21,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetdzdrr&show_icons=true&locale=en&layout=compact" alt="ahmetdzdrr" width="350" height="180"/>
     <img src="https://github-readme-stats.vercel.app/api?username=ahmetdzdrr&show_icons=true&locale=en" alt="ahmetdzdrr" />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ahmetdzdrr/ahmetdzdrr/output/snake.svg" alt="Snake animation" />
+
