@@ -17,6 +17,8 @@
 
 <br clear="both">
 
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetdzdrr&show_icons=true&locale=en&layout=compact" alt="ahmetdzdrr" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmetdzdrr&show_icons=true&locale=en" alt="ahmetdzdrr" /></p>
+</div>
