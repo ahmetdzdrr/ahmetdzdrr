@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist from Turkiye</h3>
 
 - 💼 My portfolio website ---> [Portfolio](https://ahmetdizdar.streamlit.app/)
-- 🌐 My first deployed website ---> [Gemini ChatBot Website](https://gemini-chatbot-hotf.onrender.com/)
+- 🌐 Gemini AI ChatBot ---> [Gemini ChatBot Website](https://gemini-chatbot-hotf.onrender.com/)
 - ☁️ My first cloud website ---> [AWS Cloud Portfolio Website](http://ahmet-dizdar.eba-5bkhkb5e.us-east-1.elasticbeanstalk.com/) (Terminated)
 
 
