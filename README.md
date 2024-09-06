@@ -31,3 +31,9 @@
 
 <img src="https://raw.githubusercontent.com/ahmetdzdrr/ahmetdzdrr/output/snake.svg" alt="Snake animation" />
 
+## Support My Work
+
+If you find my projects helpful and want to support me, you can buy me a coffee:
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=your-username&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ahmetdizdar)
+
