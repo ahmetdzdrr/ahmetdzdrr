@@ -31,4 +31,4 @@
 
 <img src="https://raw.githubusercontent.com/ahmetdzdrr/ahmetdzdrr/output/snake.svg" alt="Snake animation" />
 
-<p align="center"><a href="https://www.buymeacoffee.com/ahmetdizdarr" target="_blank"><img src="https://img.buymeacoffee.com/buttonapi/text=Buy%20me%20a%20coffee&emoji=&slug=ahmetdizdar&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee"></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/ahmetdizdarr" target="_blank"><img src="https://img.buymeacoffee.com/buttonapi/text=Buy%20me%20a%20coffee&emoji=&slug=your-username&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee"></a></p>
