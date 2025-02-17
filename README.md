@@ -3,7 +3,6 @@
 
 - 💼 My portfolio website ---> [Portfolio](https://ahmetdizdarr.vercel.app/)
 - 🌐 Gemini AI ChatBot ---> [Gemini ChatBot Website](https://gemini-chatbot-hotf.onrender.com/)
-- ☁️ My first cloud website ---> [AWS Cloud Portfolio Website](http://ahmet-dizdar.eba-5bkhkb5e.us-east-1.elasticbeanstalk.com/) (Terminated)
 
 
 <h3 align="left">Connect with me</h3>
